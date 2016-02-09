@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Selfcare Oasis]]></title>
+        <description><![CDATA[Selfcare Oasis]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 09 Feb 2016 21:21:52 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>At SelfCareOasis.com you will find The Pilgrims Path; a foundation of a good healthy mindset in self-care.
+The Pilgrims Path subjects include wellness, clarity, and emotional self-care, building new ways of being that will soon feel familiar.
+The journey is to listen and become truly responsive to yourself. Once honored, you will begin to see balance restored to all areas of your life.
+The world does not exist apart from your own care. The place to begin is here. YOU are the one you’ve been waiting for!</p>]]></description>
+            <link>undefined7be59bec-5795-4374-a06e-a33de7789fc6/index.html</link>
+            <guid isPermaLink="false">7be59bec-5795-4374-a06e-a33de7789fc6</guid>
+            <pubDate>Tue, 09 Feb 2016 21:21:44 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
